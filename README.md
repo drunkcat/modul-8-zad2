@@ -56,4 +56,4 @@ Umieść plik app.py, pliki danych i modeli oraz requirements.txt w repozytorium
 - Klucz API przechowuj po stronie serwera jako sekret, a nie w kodzie.
 - Wynik predykcji jest demonstracyjnym szacunkiem modelu, nie ofertą ubezpieczeniową ani gwarancją ceny.
 - Numery klastrów są etykietami technicznymi; nie oznaczają rankingu klientów.
-- Jakość wyników zależy od wcześniej wytrenowanych modeli oraz danych użytych do ich przygotowania.
+- Jakość wyników zależy od wcześniej wytrenowanych modeli oraz danych użytych do ich przygotowania (plik insurance.csv).
