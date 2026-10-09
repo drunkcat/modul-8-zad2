@@ -1,15 +1,10 @@
 """
 Wersja 04 – analiza opisu tekstowego z użyciem OpenAI.
 
-Wymagane pliki obok app_04.py:
+Wymagane pliki obok app.py:
 - insurance.csv
 - pipeline_regression.pkl
 - pipeline_clustering.pkl
-
-Uruchomienie: streamlit run app_04.py
-
-Zainstaluj dodatkowo pakiety openai i pydantic. Klucz API ustaw jako
-OPENAI_API_KEY w zmiennej środowiskowej lub w .streamlit/secrets.toml.
 """
 
 from pathlib import Path
